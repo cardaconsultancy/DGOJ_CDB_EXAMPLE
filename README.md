@@ -50,10 +50,6 @@ Key deviations and assumptions:
 - **F21 (currency)**  
   Not observable within the CDB data.
 
-- **F22 / F23 (limit participation)**  
-  Often missing in the source data.  
-  When absent, alternative limit-related variables were used as proxies.
-
 - **F25 (time-unrestricted indicator)**  
   The original definition is not limited to the reference period, which may
   introduce methodological risk.  
